@@ -1,4 +1,4 @@
-# Use the latest 2.1 version of CircleCI pipeline p
+# Use the latest 2.1 version of CircleCI pipeline 
 # See: https://circleci.com/docs/configuration-refe
 version: 2.1
 
