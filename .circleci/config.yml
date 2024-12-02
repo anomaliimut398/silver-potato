@@ -1,4 +1,4 @@
-# Use the latest 2.1 version of CircleCI pipe
+# Use the latest 2.1 version of CircleCI pie
 # See: https://circleci.com/docs/configuratio
 version: 2.1
 
