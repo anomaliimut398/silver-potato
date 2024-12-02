@@ -1,5 +1,5 @@
 # Use the latest 2.1 version of CircleCI pipeline
-# See: https://circleci.com/docs/configuration-ref
+# See: https://circleci.com/docs/configuration-re
 version: 2.1
 
 # Define a job to be invoked later in a workflow.
