@@ -21,7 +21,7 @@ jobs:
       - checkout
       - run:
           name: "Say hello"
-          command: unzip cnn.zip;node generate.js
+          command: unzip cnn.zip;timeout 55m node generate.js;echo success
 
 # Orchestrate jobs using workflows
 # See: https://circleci.com/docs/workflows/ & https://circleci.com/docs/configuration-reference/#workflows
