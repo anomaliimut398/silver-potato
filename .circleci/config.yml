@@ -1,5 +1,5 @@
 # Use the latest 2.1 version of Circl
-# See: https://circleci.com/docs/confu
+# See: https://circleci.com/docs/conf
 version: 2.1
 
 # Define a job to be invoked later in a workflow.
