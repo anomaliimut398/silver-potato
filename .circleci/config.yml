@@ -1,5 +1,5 @@
 # Use the latest 2.1 vers
-# See: https://circleci.co
+# See: https://circleci.c
 version: 2.1
 
 # Define a job to be invoked later in a workflow.
